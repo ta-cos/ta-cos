@@ -3,8 +3,12 @@
 
 🙋‍♂️ Hello, World!
 
-I am a Full stack developer👨‍💻. Interested in making life easier by creating utility tools. Fascinated about space. Love to play chess and other strategy games (Or pretty much any games really).
+I am a Full stack developer👨‍💻. I love the idea of automation, and making complex tasks simple. Fascinated about space. I am addicted to strategy games such as Chess ♟️ and am an avid reader 📖.
 
-🔭 I’m currently working on ReactJS, Nodejs, DataBase Modeling, and Flask.
+🔭 I’m currently working working on DevOps, DS&A, SRE, and tackeling my reading list.
 <br>
-📖 Working through reading list found here https://www.exasol.com/resource/computer-science-literature-recommendations/. (Pragmatic Programmer best so far)
+📖 The Pheonix Project (fun read, less technical)
+📘 Cracking the Coding Interview (...again, I have nearly mastered interview (jk))
+📗 O'Reilly - SRE: How Google Runs Production (new, will update soon)
+📓 O'Reilly - SRE: The Site Reliability Workbook (new, im told pairs well with book above)
+📚 Future: (Seeking SRE, open to suggestions)
